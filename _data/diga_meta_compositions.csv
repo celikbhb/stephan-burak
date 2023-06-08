@@ -1,0 +1,9 @@
+objectid,filename,title,format,subject,locations,object_classification,custody,source,registration_number,description,location,source_description,condition,language,H,L,T,date_discovery,findspot,context_discovery,provenance,context,form_acquisition,date_acquisition
+dmc39,dmc39.jpeg,Buddha statue,image/jpeg,,Detmold,sculpture,,,DMC 39,,Detmold,,,,20,29,6.8,2023,,,Detmold,,,2023
+dmc42,dmc42.jpeg,Buddha statue,image/jpeg,relief,Detmold,sculpture,,,DMC 42,,Detmold,,,,21,28,7.5,2023,,,Detmold,,,2023
+dmc47,dmc47.jpeg,Buddha statue,image/jpeg,relief,Detmold,sculpture,,,DMC 47,,Detmold,,,,24,26.5,15,2023,,,Detmold,,,2023
+dmc53,dmc53.jpeg,Buddha statue,image/jpeg,relief,Detmold,sculpture,,,DMC 53,,Detmold,,,,16.5,42.5,7,2023,,,Detmold,,,2023
+dmc54,dmc54.jpeg,Buddha statue,image/jpeg,statue,Detmold,sculpture,,,DMC 54,,Detmold,,,,44,15,7.5,2023,,,Detmold,,,2023
+dmc55,dmc55.jpeg,Buddha statue,image/jpeg,statue,Detmold,sculpture,,,DMC 55,,Detmold,,,,29,18.5,7,2023,,,Detmold,,,2023
+dmc59,dmc59.jpeg,Buddha statue,image/jpeg,relief,Bochum,sculpture,,,DMC 59,,Bochum,,,,10,33.5,15,2023,,,Bochum,,,2023
+dmc61,dmc61.jpeg,Bodhisattva statue,image/jpeg,statue,Bochum,sculpture,,,DMC 61,,Bochum,,,,27.5,21,7.5,2023,,,Bochum,,,2023
